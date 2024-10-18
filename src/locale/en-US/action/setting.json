@@ -1,0 +1,17 @@
+{
+  "title": "Settings",
+  "form": {
+    "quality": {
+      "title": "Image size",
+      "large": "Large",
+      "medium": "Medium",
+      "small": "Small"
+    },
+    "language": {
+      "title": "Language"
+    },
+    "theme": {
+      "title": "Theme"
+    }
+  }
+}
